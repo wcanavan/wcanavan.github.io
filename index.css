@@ -1,0 +1,37 @@
+head {
+color: }
+h2 {
+  font-family: palatino;
+  font-style: italics;
+  color: white;
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 200%;
+  color: pink;
+  font-family: palatino;
+  font-style: italics;
+
+}
+
+h3 {
+  font-size: 145%;
+  color: pink;
+  font-family: palatino;
+  font-style: italics;
+
+}
+
+
+p {
+   font-family: "Times New Roman", Times, sarif ;
+   font-size: 125%;
+   text-align: center;
+   color: white;
+}
+
+div {
+    text-align: center
+    }
